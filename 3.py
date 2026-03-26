@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 lista = ["farinha", "chocolate", "açucar", "pão"]
 print("Primeiro itém:", lista[0])  
 print("Ultimo itém:", lista[-1])
@@ -33,4 +34,6 @@ print("Ordernar crescente:", numeros)
 
 numeros.sort(reverse = True)
 print("Ordernar decrescente:", numeros)
+=======
+>>>>>>> 28ad1a75f991288618a79b46a3bd10ba9d3d2404
 
