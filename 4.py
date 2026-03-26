@@ -219,4 +219,10 @@ numero6 = int(input("Digite o 2º número:"))
 numero7 = int(input("Digite o 3º número:"))
 numero8 = int(input("Digite o 4º número:"))
 
-tupla3 = (numero5, numero6,)
+tupla3 = (numero5, numero6,numero7, numero8)
+print("Tupla original:", tupla3)
+
+lista_ordenada = sorted(tupla3)
+print ("Lista ordenada:", lista_ordenada)
+
+print("Tipo da variável ordenada:", type(lista_ordenada))
